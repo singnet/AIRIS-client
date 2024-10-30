@@ -325,7 +325,10 @@ def main_loop(mc, rob, airis_session):
         'nearby_grid':grid
     }
     # Post-Action API call goes here
-    airis_session.post_action(environment_state,)
+    try:
+        airis_session.post_action(environment_state,)
+    except:
+        pass
 
 
 if __name__ == '__main__':
