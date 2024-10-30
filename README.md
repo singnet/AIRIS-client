@@ -5,8 +5,8 @@
 
 ### For Minecraft Setup
 
-1. Install Minecraft (Fabric 1.20.1).
-2. Install [CurseForge](https://www.curseforge.com/).
+1. Install [CurseForge](https://www.curseforge.com/).
+2. Install Minecraft (Fabric 1.20.1).
 3. In CurseForge, search for and install the **Vereya Mod** and Fabric API.
 
 ### For AIRIS Client Setup
@@ -38,7 +38,7 @@
 
 ### For Visualization Tool
 
-1. Download the visualization tool archive from [AIRIS Visual Tool](http://airis-visual.s3-website-us-east-1.amazonaws.com/visual_tool.zip).
+1. Download the visualization tool archive from [AIRIS Visual Tool](https://drive.google.com/file/d/1Th4T-ZFph-bJYlxVe1ZQA8MTl9X9YAmf/view?usp=sharing).
 2. Extract all files into the AIRIS client directory.
 3. After starting the AIRIS client script, launch `main.exe` in the client folder.
 4. You may need to navigate to the correct location in the visualization window using your mouse and keyboard if the AIRIS agent doesn't immediately appear.
