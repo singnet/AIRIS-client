@@ -88,7 +88,6 @@ Launch CurseForge, search and install for:
    ```bash
    git clone https://github.com/berickcook/MinecraftEye.git
    ```
-   **(Alternatively, run `visual_setup.sh` in the AIRIS directory)**
 2. **Install Dependencies**:
    ```bash
    python -m venv venv
@@ -108,4 +107,3 @@ Launch CurseForge, search and install for:
 - **Exiting**: Use `Ctrl+C` in your shell to safely stop the AIRIS client.
 - **Reconnect Option**: Use the `--restore` key to restore previous session of AIRIS 
 
----
