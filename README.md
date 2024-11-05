@@ -32,7 +32,12 @@ Launch CurseForge, search and install for:
 ## AIRIS Client Setup
 
 ### Windows Instructions
-
+#### Binary setup (Easy)
+1.  ** Download ** AIRIS exe files [AIRIS-all](https://drive.google.com/file/d/1NfOaA-pHOxBz7owO715LNsVZOZvHF20C/view?usp=sharing) and extract it in clean folder
+2.  **Prepare Minecraft**: Launch Minecraft and create a single-player game with cheats enabled.
+3.  **Run** start_client.bat for running AIRIS and then start_visual.bat for visualisation tool 
+4.  **Expand** minecraft window and enjoy
+#### Manual setup
 1. **Open Terminal in the Repository Folder**: Navigate to the AIRIS Client folder in a terminal.
 2. **Create a Virtual Environment**:
    ```bash
